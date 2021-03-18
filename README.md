@@ -1,4 +1,6 @@
-## Reproduce .ai image previde problem
+## Reproduce .ai image problem
+
+https://github.com/algoo/preview-generator/issues/215
 
 ### reproduce command
 ```
